@@ -1,2 +1,5 @@
 # alfred-remote-workflow
-Alfred Remote workflows
+
+Various workflows that I have created for Alfred Remote.
+
+[Download Alfred Remote here](http://www.alfredapp.com/remote/)
